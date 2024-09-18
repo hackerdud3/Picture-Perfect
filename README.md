@@ -27,6 +27,3 @@
 **NO code should be stored in the root of your repository. You may rename the
 `application/` folder to your team's application name if you'd like, but all the
 source code should be stored inside that folder.**
-=======
-# Picture-Perfect
->>>>>>> afe1136237d771f8014b9d33e80f37b83b10480f
